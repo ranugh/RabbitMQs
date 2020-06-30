@@ -1,0 +1,7 @@
+node           : rabbit@ubuntu01-VirtualBox
+ home dir       : /var/lib/rabbitmq
+ config file(s) : (none)
+ cookie hash    : oUdsW999lMPY2OiX4CUpOQ==
+ log(s)         : /var/log/rabbitmq/rabbit@ubuntu01-VirtualBox.log
+                : /var/log/rabbitmq/rabbit@ubuntu01-VirtualBox_upgrade.log
+ database dir   : /var/lib/rabbitmq/mnesia/rabbit@ubuntu01-VirtualBox
